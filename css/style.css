@@ -254,7 +254,7 @@ h3 {
   width: 80%;
   text-align: center;
   background-image: linear-gradient(rgb(4, 9, 30, 0.7), rgb(4, 9, 30, 0.7)),
-    url("/web-HTML+CSS/images/banner2.jpg");
+    url("../images/banner2.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 10px;
