@@ -4,7 +4,7 @@
 }
 .header {
   background-image: linear-gradient(rgb(4, 9, 30, 0.7), rgb(4, 9, 30, 0.7)),
-    url("/web-HTML+CSS/images/banner.png");
+    url("../images/banner.png");
   width: 100%;
   min-height: 100vh;
   background-size: cover;
@@ -315,7 +315,7 @@ h3 {
   height: 50vh;
   width: 100%;
   background-image: linear-gradient(rgb(4, 9, 30, 0.7), rgb(4, 9, 30, 0.7)),
-    url("/web-HTML+CSS/images/background.jpg");
+    url("../images/background.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;
